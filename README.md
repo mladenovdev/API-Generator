@@ -1,2 +1,2 @@
 # API-Generator
-API Generator
+API Generator writen in PHP
